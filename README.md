@@ -9,7 +9,7 @@
   ⚙️ Developing robust web applications and navigating the ever-evolving world of web technologies.
 </p>
 
-- 💻 I am a proud graduate of the Boolean Academy, a comprehensive program that transformed me into a skilled Full Stack Web Developer.
+- 💻 Boolean Full Stack Web Developer Certificate Achieved
 - 📖 Continuously expanding my knowledge and honing my skills to stay at the forefront of web development.
 - 📫 Feel free to reach out to me via email: fabioturi12394@gmail.com
 - 🔗 Connect with me on LinkedIn: [Fabio Turi](https://www.linkedin.com/in/fabio-turi-js/)
