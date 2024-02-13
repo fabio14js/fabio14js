@@ -1,17 +1,18 @@
 <img src="https://wallpaperaccess.com/full/2825704.gif">
+
 <h1 align="center">🚀 Hello, I'm Fabio Turi</h1>
 <h3 align="center">Web Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fabioturi&label=Profile%20Views&color=068efe&style=for-the-badge" alt="fabioturi" />
-  <br>
+  <br><br>
   ⚙️ Developing robust web applications and navigating the ever-evolving world of web technologies.
 </p>
 
-- 💻 I am a graduate of the Boolean Academy
-- 📖 Currently expanding my knowledge as a web developer
-- 📫 Contact me via email: fabioturi12394@gmail.com
-- 🔗 LinkedIn: [Fabio Turi](https://www.linkedin.com/in/fabio-turi-js/)
+- 💻 I am a proud graduate of the Boolean Academy, a comprehensive program that transformed me into a skilled Full Stack Web Developer.
+- 📖 Continuously expanding my knowledge and honing my skills to stay at the forefront of web development.
+- 📫 Feel free to reach out to me via email: fabioturi12394@gmail.com
+- 🔗 Connect with me on LinkedIn: [Fabio Turi](https://www.linkedin.com/in/fabio-turi-js/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
