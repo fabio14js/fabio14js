@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/7RGwyjm.gif">
+<img src="https://i.pinimg.com/originals/e0/c8/8b/e0c88bae1e248884eb85443178c4966c.gif">
 <h1 align="center">🚀 Hello, I'm Fabio Turi</h1>
 <h3 align="center">Web Developer</h3>
 
