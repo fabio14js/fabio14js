@@ -1,7 +1,11 @@
-<h1 align="center">Ciao, sono Fabio Turi</h1>
+<h1 align="center">🚀 Ciao, sono Fabio Turi</h1>
 <h3 align="center">Sviluppatore Web</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabioturi&label=Visualizzazioni%20del%20profilo&color=0e75b6&style=flat" alt="fabioturi" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fabioturi&label=Visualizzazioni%20del%20profilo&color=8e44ad&style=flat-square" alt="fabioturi" />
+  <br>
+  👋 Benvenuto nel mio spazio digitale! Sono appassionato di sviluppo web e sempre pronto per nuove sfide.
+</p>
 
 - 💻 Sono un laureato di Boolean Academy
 - 📖 Attualmente approfondisco le mie conoscenze come sviluppatore web
