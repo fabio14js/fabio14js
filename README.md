@@ -1,15 +1,15 @@
-<h1 align="center">🚀 Ciao, sono Fabio Turi</h1>
-<h3 align="center">Sviluppatore Web</h3>
+<h1 align="center">🚀 Hello, I'm Fabio Turi</h1>
+<h3 align="center">Web Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fabioturi&label=Visualizzazioni%20del%20profilo&color=8e44ad&style=flat-square" alt="fabioturi" />
+  <img src="https://komarev.com/ghpvc/?username=fabioturi&label=Profile%20Views&color=8e44ad&style=flat-square" alt="fabioturi" />
   <br>
-  👋 Benvenuto nel mio spazio digitale! Sono appassionato di sviluppo web e sempre pronto per nuove sfide.
+  👋 Welcome to my digital space! I'm passionate about web development and always ready for new challenges.
 </p>
 
-- 💻 Sono un laureato di Boolean Academy
-- 📖 Attualmente approfondisco le mie conoscenze come sviluppatore web
-- 📫 Contattami via email: fabioturi12394@gmail.com
+- 💻 I am a graduate of the Boolean Academy
+- 📖 Currently expanding my knowledge as a web developer
+- 📫 Contact me via email: fabioturi12394@gmail.com
 - 🔗 LinkedIn: [Fabio Turi](https://www.linkedin.com/in/fabio-turi-js/)
 
 <h3 align="left">Connect with me:</h3>
@@ -19,5 +19,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Aggiungi qui i tuoi linguaggi e strumenti preferiti -->
+  <!-- Add your preferred languages and tools here -->
 </p>
