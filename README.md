@@ -1,4 +1,4 @@
-<img src="https://wallpaperxyz.com/wp-content/uploads/Gif-Animated-Wallpaper-Background-Full-HD-Free-Download-for-PC-Macbook-261121-Wallpaperxyz.com-4.gif">
+<img src="https://i.imgur.com/7RGwyjm.gif">
 <h1 align="center">🚀 Hello, I'm Fabio Turi</h1>
 <h3 align="center">Web Developer</h3>
 
