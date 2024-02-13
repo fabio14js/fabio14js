@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fabioturi&label=Profile%20Views&color=068efe&style=flat-square" alt="fabioturi" />
+  <img src="https://komarev.com/ghpvc/?username=fabioturi&label=Profile%20Views&color=068efe&style=for-the-badge" alt="fabioturi" />
   <br>
   ⚙️ Developing robust web applications and navigating the ever-evolving world of web technologies.
 </p>
