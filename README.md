@@ -2,9 +2,9 @@
 <h3 align="center">Web Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=fabioturi&label=Profile%20Views&color=8e44ad&style=flat-square" alt="fabioturi" />
+  <img src="https://komarev.com/ghpvc/?username=fabioturi&label=Profile%20Views&color=068efe&style=flat-square" alt="fabioturi" />
   <br>
-  👋 Welcome to my digital space! I'm passionate about web development and always ready for new challenges.
+  ⚙️ Developing robust web applications and navigating the ever-evolving world of web technologies.
 </p>
 
 - 💻 I am a graduate of the Boolean Academy
